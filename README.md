@@ -93,4 +93,4 @@ Recorrido interactivo en Realidad Virtual de las instalaciones de Kinal, con ent
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-reyes-lópez-79a68a425)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breyes396)
 
-📱 +502 4489 8665 &nbsp;|&nbsp; 📧 billyrey3645@gmail.com
+📧 billyrey3645@gmail.com
