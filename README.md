@@ -80,13 +80,6 @@ Recorrido interactivo en Realidad Virtual de las instalaciones de Kinal, con ent
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=breyes396&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Billy Reyes" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breyes396&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por Billy Reyes" />
-</p>
-
 ### 📫 Contáctame
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billyrey3645@gmail.com)
