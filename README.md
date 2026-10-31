@@ -19,6 +19,9 @@ Soy un desarrollador Full Stack Junior apasionado por la tecnología y la creaci
 - 🌱 Actualmente ampliando mis conocimientos en desarrollo **Full Stack** (React, Node.js, .NET, bases de datos modernas)
 - 🎯 Mi objetivo: crecer como desarrollador, participar en proyectos reales y fortalecer mis conocimientos en nuevas tecnologías para crear soluciones eficientes e innovadoras
 
+### Portafolio
+Proyectos realizados(https://portafolio-frontend-hc3f.onrender.com/)
+
 ### 🛠️ Stack Técnico
 
 **Frontend**
